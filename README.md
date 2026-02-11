@@ -18,14 +18,14 @@ We want to create a program that can take a song and search a small music databa
 
     - Normalize the sampling rate
 
-1.  Feature extraction
+2.  Feature extraction
     
 
     - Chroma features
 
     - Beat-synchronous chroma (time permitting)
 
-1.  Compute similarity
+3.  Compute similarity
     
 
     - Dynamic time warping or cross-similarity matrix
@@ -34,7 +34,7 @@ We want to create a program that can take a song and search a small music databa
 
     - transposition invariant comparison (test +- 6 semitone shifts or optimal transposition index)
 
-1.  Ranking
+4.  Ranking
     
 
     - Return the top k matches
