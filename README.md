@@ -5,7 +5,7 @@ Group SP15: Khiara Quigley, Kaitlyn Rafter, Tobi Adepoju
 
 ### **Project Overview**
 
-We want to create a program that can take a song and search a small music database to find other versions of the same song, even if they differ in key/tempo/instrumentation. Our approach is to extract harmonic features from each track, align and compare them using similarity and sequence-matching techniques, and then return the top matching covers. If possible, we were thinking of also adding beat-synchronous features and structure awareness (like ignoring intros/outros) to improve accuracy. Additionally, as covers are often in different keys than the original, if time permits we would also like to implement comparison methods that are transposition invariant such as testing across multiple semitone shifts or transposing to a common key.
+We want to create a program that can take a song and search a small music database to find other versions of the same song, even if they differ in key, tempo, or instrumentation. Our approach is to extract harmonic features from each track, align and compare them using similarity and sequence-matching techniques, and then return the top matching covers. If possible, we were thinking of also adding beat-synchronous features and structure awareness (like ignoring intros/outros) to improve accuracy. Additionally, as covers are often in different keys than the original, if time permits we would also like to implement comparison methods that are transposition invariant such as testing across multiple semitone shifts or transposing to a common key.
 
 **Proposed Approach**
 
