@@ -1,5 +1,3 @@
-# csc475-sp15
-
 **CSC 475 Project Design Specification: Finding Cover Songs**
 =============================================================
 
