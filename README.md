@@ -158,3 +158,10 @@ Serra, J., Gomez, E., Herrera, P., Audio cover song identification and similarit
 Herrera, P., Transposing chroma representations to a common key. IEEE CS Conference on The Use of Symbols to Represent Music and Multimedia Objects 2008. [https://www.academia.edu/1835704/Transposing\_chroma\_representations\_to\_a\_common\_key](https://www.academia.edu/1835704/Transposing_chroma_representations_to_a_common_key)
 
 Müller, M., Kurth, F., Clausen, M. (2005). Audio matching via chroma-based statistical features. _Proc. Int. Conf. on Music Info. Retr. ISMIR-05_, pages 288–295.
+
+Yesiler, F., Tralie, C., Andrew-Correya, A., Silva, D., Tovstogan, P., Gómez-Gutiérrez, E., Serra. X. 2019. Da-TACOS: A dataset for cover song identification and understanding. In Proceedings of the 20th Conference of the International Society for Music Information Retrieval (ISMIR 2019): 2019 Nov 4-8; Delft, The Netherlands.[Canada]: ISMIR; 2019. International Society for Music Information Retrieval (ISMIR).
+Osmalskyj, J., Piérard, S., Van Droogenbroeck, M., Embrechts, J.-J. Efficient database pruning for large-scale cover song recognition. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, Canada, May 2013.
+
+T. Bertin-Mahieux and D. Ellis, “Large-scale cover song recognition using the 2D Fourier transform magnitude,” in Proceedings of the 13th International Conference on Music Information Retrieval (ISMIR), 2012.
+
+Bertin-Mahieux, T., D.P.W., E. Large-scale cover song recognition using hashed chroma landmarks. In Proceedings of WASPAA, New Platz, NY, 2011.
