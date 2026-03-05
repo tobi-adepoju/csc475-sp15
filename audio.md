@@ -3,17 +3,13 @@
 - Filename: the_neighbourhood_sweater_weather.mp3
 - Link: https://youtu.be/08WiUcJmnZc?si=gWh2giZZWKpTS9SV
 
-
 - Cover 1.1: Alessia Cara
 - Filename: alessia_cara_sweater_weather.mp3
 - Link: https://youtu.be/_uDpsS2Wgq8?si=lKubltIkOK6mzoAZ
 
-
 - Cover 1.2: Kina Grannis
 - Filename: kina_grannis_sweater_weather.mp3
 - Link: https://youtu.be/-nYsM9sTqxo?si=70zRBG4AwY4vzWgb
-
-
 
 **Song 2: Stitches**
 - Original: Shawn Mendes
@@ -224,31 +220,31 @@
 - Filename:
 - Link:
 
-**Song 18:**
-- Original:
-- Filename:
+**Song 18: Snooze**
+- Original: SZA
+- Filename: sza_snooze.mp3
 - Link:
 
-- Cover 18.1: 
-- Filename:
-- Link:
+- Cover 18.1: Celine Wanyi
+- Filename: celine_wanyi_snooze.mp3
+- Link: https://youtu.be/elZPkEtlEb0?si=5exWphrw8l5KqIa3
 
-- Cover 18.2: 
-- Filename:
-- Link:
+- Cover 18.2: Noah Red
+- Filename: noah_red_snooze.mp3 
+- Link: https://youtu.be/jCXVIlZ39x8?si=k-GyWlYY0BFKcA7n
 
-- **Song 19:**
-- Original:
-- Filename:
-- Link:
+- **Song 19: Bags**
+- Original: Clairo
+- Filename: clairo_bags.mp3
+- Link: https://youtu.be/L9HYJbe9Y18?si=mKqZfJgmEHDZ2Ipm
 
-- Cover 19.1: 
-- Filename:
-- Link:
+- Cover 19.1: Dominic Fike
+- Filename: dominic_fike_bags.mp3
+- Link: https://youtu.be/7WyrPH0JJF0?si=C6lFTz33K2RQqTN5
 
-- Cover 19.2: 
-- Filename:
-- Link:
+- Cover 19.2: Rhianne
+- Filename: rhianne_bags.mp3
+- Link: https://youtu.be/0Vn_Ff4aTdY?si=dRfnwAa3gcMazzTf
 
 **Song 20:**
 - Original:
