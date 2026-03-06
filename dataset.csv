@@ -13,7 +13,7 @@ song_id,title,artist,file_name,song_version
 4,Sailor Song,Hannah Grae,hannah_grae_sailor_song.mp3,cover
 5,Take Me To Church,Hozier,hozier_take_me_to_church.mp3,original
 5,Take Me To Church,Sofia Karlberg,sofia_karlberg_take_me_to_church.mp3,cover
-5,Take Me To Church,Megan Davies,megan_davies__take_me_to_church.mp3,cover 
+5,Take Me To Church,Megan Davies,megan_davies_take_me_to_church.mp3,cover 
 6,Do I Wanna Know?,Arctic Monkeys,arctic_monkeys_do_i_wanna_know.xgmp3,original
 6,Do I Wanna Know?,Hozier,hozier_do_i_wanna_know.mp3,covercr
 7,We Can’t Be Friends,Ariana Grande,ariana_grande_ we_cant_be_friends.mp3,original
@@ -58,3 +58,4 @@ song_id,title,artist,file_name,song_version
 20,Sparks,Coldplay,coldplay_sparks.mp3,original
 20,Sparks,Connie Park,connie_park_sparks.mp3,cover
 20,Sparks,Forest Slater,forest_slater_sparks.mp3,cover
+
