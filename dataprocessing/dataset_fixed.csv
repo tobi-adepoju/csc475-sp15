@@ -1,0 +1,60 @@
+song_id,title,artist,file_name,song_version
+1,Sweater Weather,The Neighbourhood,the_neighbourhood_sweater_weather.mp3,original
+1,Sweater Weather,Alessia Cara,alessia_cara_sweater_weather.mp3,cover
+1,Sweater Weather,Kina Grannis,kina_grannis_sweater_weather.mp3,cover
+2,Stitches,Shawn Mendes,shawn_mendes_stitches.mp3,original
+2,Stitches,Conor Maynard,conor_maynard_stitches.mp3,cover
+2,Stitches,Leroy Sanchez,leroy_sanchez_stitches.mp3,cover
+3,"Good Luck, Babe!",Chappell Roan,chappell_roan_good_luck_babe.mp3,original
+3,"Good Luck, Babe!",Sabrina Carpenter,sabrina_carpenter_good_luck_babe.mp3,cover
+3,"Good Luck, Babe!",Mark Ambor,mark_ambor_good_luck_babe.mp3,cover
+4,Sailor Song,Gigi Perez,gigi_perez_sailor_song.mp3,original
+4,Sailor Song,Marianne Beaulieu,marianne_beaulieu_sailor_song.mp3,cover
+4,Sailor Song,Hannah Grae,hannah_grae_sailor_song.mp3,cover
+5,Take Me To Church,Hozier,hozier_take_me_to_church.mp3,original
+5,Take Me To Church,Sofia Karlberg,sofia_karlberg_take_me_to_church.mp3,cover
+5,Take Me To Church,Megan Davies,megan_davies__take_me_to_church.mp3,cover 
+6,Do I Wanna Know?,Arctic Monkeys,arctic_monkeys_do_i_wanna_know.mp3,original
+6,Do I Wanna Know?,Hozier,hozier_do_i_wanna_know.mp3,cover
+7,We Can’t Be Friends,Ariana Grande,ariana_grande_ we_cant_be_friends.mp3,original
+7,We Can’t Be Friends,Matt Wilson,matt_wilson_we_cant_be_friends.mp3,cover
+7,We Can’t Be Friends,Nica Tupas,nica_tupas_ we_cant_be_friends.mp3,cover
+8,Birds Of A Feather,Billie Eilish,billie_eilish_birds_of_a_feather.mp3,original
+8,Birds Of A Feather,Lazulitchi,lazulitchi_birds_of_a_feather.mp3,cover
+8,Birds Of A Feather,Kelly Clarkson,kelly_clarkson_birds_of_a_feather.mp3,cover
+9,Easy On Me,Adele,adele_easy_on_me.mp3,original
+9,Easy On Me,Lloyiso,lloyiso_easy_on_me.mp3,cover
+9,Easy On Me,Will Gittens,will_gittens_easy_on_me.mp3,cover
+10,Nonsense,Sabrina Carpenter,sabrina_carpenter_nonsense.mp3,original
+10,Nonsense,Dixzie Cruel,dixzie_cruel_nonsense.mp3,cover
+10,Nonsense,Joseph Vincent,joseph_vincent_nonsene.mp3,cover
+11,Halo,Beyonce,beyonce_halo.mp3,original
+11,Halo,Peter Katz,peter_katz_halo.mp3,cover
+11,Halo,Jasmine Thompson,jasmine_thompson_halo.mp3,cover
+12,Love On The Brain,Rihanna,rihanna_love_on_the_brain.mp3,original
+12,Love On The Brain,Joseph Solomon,joseph_solomon_love_on_the_brain.mp3,cover
+12,Love On The Brain,Audrey Mika,audrey_mika_love_on_the_brain.mp3,cover
+13,Cruel Summer ,Taylor Swift,taylor_swift_cruel_summer.mp3,original
+13,Cruel Summer,Teddy Swims,teddy_swims_cruel_summer.mp3,cover
+13,Cruel Summer,Alec Chambers,alec_chambers_cruel_summer.mp3,cover
+14,Coffee,Beabadoobee,beabadoobee_coffee.mp3,original
+14,Coffee,Emilee,emilee_coffee.mp3,cover
+14,Coffee,Dustin Vuong,dustin_vuong_coffee.mp3,cover
+15,Creep,Radiohead,radiohead_creep.mp3,original
+15,Creep,Billie Eilish,billie_eilish_creep.mp3,cover
+15,Creep,IMY2,imy2_creep.mp3,cover
+16,Can’t Help Falling In Love,Elvis Presley,elvis_presley_cant_help_falling_in_love.mp3,original
+16,Can’t Help Falling In Love,Alyssa Baker,alyssa_baker_cant_help_falling_in_love.mp3,cover
+16,Can’t Help Falling In Love,Lucy Ellis,lucy_ellis_cant_help_falling_in_love.mp3,cover
+17,I’m Yours,Jason Mraz,jason_mraz_im_yours.mp3,original
+17,I’m Yours,Alyssa Bernal,alyssa_bernal_im_yours.mp3,cover
+17,I’m Yours,Hearts & Colors,hearts_&_colors_im_yours.mp3,cover
+18,Snooze,SZA,sza_snooze.mp3,original
+18,Snooze,Celine Wanyi,celine_wanyi_snooze.mp3,cover
+18,Snooze,Noah Red,noah_red_snooze.mp3,cover
+19,Bags,Clairo,clairo_bags.mp3,original
+19,Bags,Dominic Fike,dominic_fike_bags.mp3,cover
+19,Bags,Rhianne,rhianne_bags.mp3,cover
+20,Sparks,Coldplay,coldplay_sparks.mp3,original
+20,Sparks,Connie Park,connie_park_sparks.mp3,cover
+20,Sparks,Forest Slater,forest_slater_sparks.mp3,cover
