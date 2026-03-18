@@ -1,0 +1,5 @@
+dataprocessing/downloads/
+**/*.mp3
+**/*.wav
+**/*.npy
+.DS_Store
