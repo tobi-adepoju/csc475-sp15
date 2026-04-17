@@ -1,0 +1,688 @@
+AUDIO SIMILARITY REPORT (PANNs CNN14 + LanceDB)
+================================================================================
+                orig_title      cover_artist                cover_title  match_value
+                     Creep              IMY2                      Creep     0.943704
+                Easy On Me     Conor Maynard                   Stitches     0.912654
+                Easy On Me           Lloyiso                 Easy On Me     0.911798
+                     Creep       Teddy Swims               Cruel Summer     0.906837
+         Love On The Brain    Sofia Karlberg          Take Me To Church     0.893128
+                     Creep      Dominic Fike                       Bags     0.892600
+           Sweater Weather              IMY2                      Creep     0.887912
+         Take Me To Church            Hozier           Do I Wanna Know?     0.887535
+                    Sparks    Joseph Vincent                   Nonsense     0.884366
+                 I’m Yours      Kina Grannis            Sweater Weather     0.879906
+         Take Me To Church              IMY2                      Creep     0.876946
+                Easy On Me       Matt Wilson        We Can’t Be Friends     0.874601
+         Love On The Brain              IMY2                      Creep     0.872331
+         Love On The Brain    Kelly Clarkson         Birds Of A Feather     0.870756
+         Take Me To Church       Teddy Swims               Cruel Summer     0.864058
+             Cruel Summer     Sofia Karlberg          Take Me To Church     0.862672
+           Sweater Weather       Teddy Swims               Cruel Summer     0.857964
+               Sailor Song              IMY2                      Creep     0.857929
+                      Halo    Sofia Karlberg          Take Me To Church     0.854750
+                  Stitches     Alec Chambers               Cruel Summer     0.854387
+                  Stitches              IMY2                      Creep     0.850054
+           Sweater Weather     Alec Chambers               Cruel Summer     0.849643
+                Easy On Me      Alyssa Baker Can’t Help Falling In Love     0.848852
+                Easy On Me    Sofia Karlberg          Take Me To Church     0.847689
+                    Coffee Marianne Beaulieu                Sailor Song     0.847654
+          Do I Wanna Know?              IMY2                      Creep     0.847446
+           Sweater Weather        Peter Katz                       Halo     0.847409
+                      Bags              IMY2                      Creep     0.845492
+        Birds Of A Feather    Sofia Karlberg          Take Me To Church     0.844321
+                  Stitches       Teddy Swims               Cruel Summer     0.843359
+               Sailor Song     Leroy Sanchez                   Stitches     0.842965
+         Take Me To Church      Kina Grannis            Sweater Weather     0.842386
+                    Snooze    Sofia Karlberg          Take Me To Church     0.840905
+                  Stitches    Joseph Vincent                   Nonsense     0.840561
+           Sweater Weather      Dominic Fike                       Bags     0.839296
+           Sweater Weather      Kina Grannis            Sweater Weather     0.838032
+                    Sparks              IMY2                      Creep     0.836108
+               Sailor Song     Billie Eilish                      Creep     0.835247
+          Do I Wanna Know?       Teddy Swims               Cruel Summer     0.835012
+                 I’m Yours     Alec Chambers               Cruel Summer     0.834984
+               Sailor Song    Kelly Clarkson         Birds Of A Feather     0.834458
+                    Sparks     Forest Slater                     Sparks     0.833630
+                    Sparks   Hearts & Colors                  I’m Yours     0.833566
+                 I’m Yours    Joseph Solomon          Love On The Brain     0.833395
+               Sailor Song    Sofia Karlberg          Take Me To Church     0.833253
+                 I’m Yours   Hearts & Colors                  I’m Yours     0.832733
+          Do I Wanna Know?        Peter Katz                       Halo     0.832010
+                  Nonsense     Alec Chambers               Cruel Summer     0.831822
+                    Sparks        Nica Tupas        We Can’t Be Friends     0.831136
+                    Coffee      Celine Wanyi                     Snooze     0.830532
+                    Coffee      Dixzie Cruel                   Nonsense     0.830314
+         Love On The Brain       Teddy Swims               Cruel Summer     0.830200
+                    Sparks     Leroy Sanchez                   Stitches     0.829090
+                  Stitches      Kina Grannis            Sweater Weather     0.828820
+                    Sparks        Peter Katz                       Halo     0.828703
+         Take Me To Church     Billie Eilish                      Creep     0.828541
+                  Stitches     Leroy Sanchez                   Stitches     0.828237
+                  Nonsense      Kina Grannis            Sweater Weather     0.828224
+                    Coffee       Hannah Grae                Sailor Song     0.827833
+               Sailor Song   Hearts & Colors                  I’m Yours     0.827040
+                    Coffee    Joseph Solomon          Love On The Brain     0.827035
+                  Stitches   Hearts & Colors                  I’m Yours     0.825962
+          Do I Wanna Know?            Hozier           Do I Wanna Know?     0.825658
+                 I’m Yours       Teddy Swims               Cruel Summer     0.825591
+                Easy On Me      Kina Grannis            Sweater Weather     0.825421
+Can’t Help Falling In Love     Billie Eilish                      Creep     0.825399
+                    Snooze    Joseph Vincent                   Nonsense     0.825260
+       We Can’t Be Friends    Sofia Karlberg          Take Me To Church     0.825134
+               Sailor Song       Teddy Swims               Cruel Summer     0.824151
+                    Sparks     Alec Chambers               Cruel Summer     0.821179
+                  Stitches    Kelly Clarkson         Birds Of A Feather     0.820902
+               Sailor Song            Hozier           Do I Wanna Know?     0.820449
+        Birds Of A Feather    Kelly Clarkson         Birds Of A Feather     0.820408
+           Sweater Weather    Joseph Vincent                   Nonsense     0.820011
+                    Sparks      Will Gittens                 Easy On Me     0.819931
+                    Sparks       Teddy Swims               Cruel Summer     0.819259
+           Sweater Weather            Hozier           Do I Wanna Know?     0.818176
+                  Stitches        Peter Katz                       Halo     0.817669
+                      Bags       Teddy Swims               Cruel Summer     0.817460
+           Sweater Weather    Sofia Karlberg          Take Me To Church     0.816441
+                    Coffee           Rhianne                       Bags     0.816425
+                    Sparks       Hannah Grae                Sailor Song     0.816380
+         Take Me To Church        Peter Katz                       Halo     0.815363
+               Sailor Song     Alec Chambers               Cruel Summer     0.814874
+                 I’m Yours        Peter Katz                       Halo     0.814666
+                    Coffee            Emilee                     Coffee     0.814578
+         Take Me To Church           Lloyiso                 Easy On Me     0.813681
+                    Coffee     Forest Slater                     Sparks     0.812549
+                    Coffee        Nica Tupas        We Can’t Be Friends     0.812414
+Can’t Help Falling In Love            Hozier           Do I Wanna Know?     0.811058
+          Do I Wanna Know?      Dominic Fike                       Bags     0.810710
+               Sailor Song    Joseph Vincent                   Nonsense     0.810208
+                    Coffee      Will Gittens                 Easy On Me     0.810147
+               Sailor Song           Lloyiso                 Easy On Me     0.809386
+               Sailor Song      Kina Grannis            Sweater Weather     0.809227
+               Sailor Song        Peter Katz                       Halo     0.809086
+         Take Me To Church    Sofia Karlberg          Take Me To Church     0.808756
+                 I’m Yours            Hozier           Do I Wanna Know?     0.808323
+                  Stitches      Dominic Fike                       Bags     0.807653
+           Sweater Weather    Kelly Clarkson         Birds Of A Feather     0.806916
+Can’t Help Falling In Love     Leroy Sanchez                   Stitches     0.806323
+Can’t Help Falling In Love           Lloyiso                 Easy On Me     0.804018
+                    Sparks      Kina Grannis            Sweater Weather     0.803670
+                  Nonsense     Conor Maynard                   Stitches     0.803544
+                  Stitches            Hozier           Do I Wanna Know?     0.802331
+         Love On The Brain     Alec Chambers               Cruel Summer     0.801330
+         Take Me To Church      Dominic Fike                       Bags     0.800484
+                    Snooze    Kelly Clarkson         Birds Of A Feather     0.799858
+        Birds Of A Feather              IMY2                      Creep     0.799831
+         Love On The Brain     Conor Maynard                   Stitches     0.799612
+                    Snooze     Conor Maynard                   Stitches     0.799470
+                     Creep      Kina Grannis            Sweater Weather     0.798879
+Can’t Help Falling In Love        Nica Tupas        We Can’t Be Friends     0.798764
+                  Stitches    Joseph Solomon          Love On The Brain     0.798543
+                  Stitches    Sofia Karlberg          Take Me To Church     0.798288
+           Sweater Weather     Conor Maynard                   Stitches     0.797353
+         Take Me To Church    Kelly Clarkson         Birds Of A Feather     0.796964
+                Easy On Me     Alec Chambers               Cruel Summer     0.796231
+Can’t Help Falling In Love       Teddy Swims               Cruel Summer     0.796194
+                  Stitches        Nica Tupas        We Can’t Be Friends     0.795961
+                    Coffee        Lucy Ellis Can’t Help Falling In Love     0.795840
+Can’t Help Falling In Love   Hearts & Colors                  I’m Yours     0.795451
+           Sweater Weather     Billie Eilish                      Creep     0.795414
+             Cruel Summer     Kelly Clarkson         Birds Of A Feather     0.793682
+                Easy On Me       Teddy Swims               Cruel Summer     0.792978
+                    Coffee      Dustin Vuong                     Coffee     0.792771
+                 I’m Yours              IMY2                      Creep     0.792537
+                    Coffee     Leroy Sanchez                   Stitches     0.791753
+           Sweater Weather   Hearts & Colors                  I’m Yours     0.790517
+                Easy On Me    Kelly Clarkson         Birds Of A Feather     0.789444
+                    Sparks            Emilee                     Coffee     0.789239
+               Sailor Song        Nica Tupas        We Can’t Be Friends     0.789010
+                 I’m Yours     Billie Eilish                      Creep     0.788677
+                    Sparks           Lloyiso                 Easy On Me     0.788421
+         Love On The Brain      Kina Grannis            Sweater Weather     0.787777
+                    Sparks     Billie Eilish                      Creep     0.787529
+Can’t Help Falling In Love    Sofia Karlberg          Take Me To Church     0.787367
+Can’t Help Falling In Love    Kelly Clarkson         Birds Of A Feather     0.787334
+                  Nonsense    Kelly Clarkson         Birds Of A Feather     0.786077
+                    Sparks    Joseph Solomon          Love On The Brain     0.785911
+        Birds Of A Feather     Alec Chambers               Cruel Summer     0.785794
+                      Bags     Billie Eilish                      Creep     0.785773
+                    Sparks        Lucy Ellis Can’t Help Falling In Love     0.785657
+                 I’m Yours     Conor Maynard                   Stitches     0.784848
+                      Bags    Kelly Clarkson         Birds Of A Feather     0.784758
+                  Stitches     Conor Maynard                   Stitches     0.784500
+                Easy On Me        Peter Katz                       Halo     0.784453
+                 I’m Yours     Leroy Sanchez                   Stitches     0.784214
+        Birds Of A Feather     Conor Maynard                   Stitches     0.784114
+Can’t Help Falling In Love    Joseph Vincent                   Nonsense     0.783779
+                  Nonsense        Peter Katz                       Halo     0.783408
+         Love On The Brain    Joseph Vincent                   Nonsense     0.783274
+                      Halo    Kelly Clarkson         Birds Of A Feather     0.783057
+                 I’m Yours       Audrey Mika          Love On The Brain     0.782976
+                  Nonsense    Sofia Karlberg          Take Me To Church     0.782757
+                    Coffee      Kina Grannis            Sweater Weather     0.782537
+                      Bags      Dominic Fike                       Bags     0.782526
+Can’t Help Falling In Love              IMY2                      Creep     0.781744
+                    Sparks Marianne Beaulieu                Sailor Song     0.781639
+          Do I Wanna Know?      Kina Grannis            Sweater Weather     0.781360
+         Take Me To Church     Alec Chambers               Cruel Summer     0.781172
+                Easy On Me              IMY2                      Creep     0.780951
+          Do I Wanna Know?    Sofia Karlberg          Take Me To Church     0.780900
+Can’t Help Falling In Love        Peter Katz                       Halo     0.780679
+                    Sparks  Jasmine Thompson                       Halo     0.780292
+                     Creep        Peter Katz                       Halo     0.780285
+        Birds Of A Feather      Kina Grannis            Sweater Weather     0.780024
+         Take Me To Church    Joseph Vincent                   Nonsense     0.779906
+         Take Me To Church     Conor Maynard                   Stitches     0.779837
+                 I’m Yours    Joseph Vincent                   Nonsense     0.779109
+                    Coffee     Alec Chambers               Cruel Summer     0.778885
+           Sweater Weather           Lloyiso                 Easy On Me     0.778844
+          Do I Wanna Know?    Joseph Vincent                   Nonsense     0.778758
+         Love On The Brain        Peter Katz                       Halo     0.778269
+                 I’m Yours           Lloyiso                 Easy On Me     0.777982
+               Sailor Song       Hannah Grae                Sailor Song     0.777953
+                  Stitches           Lloyiso                 Easy On Me     0.777685
+                      Bags     Alec Chambers               Cruel Summer     0.777392
+                      Bags      Kina Grannis            Sweater Weather     0.777139
+         Love On The Brain           Lloyiso                 Easy On Me     0.776605
+                    Sparks            Hozier           Do I Wanna Know?     0.776094
+                     Creep    Kelly Clarkson         Birds Of A Feather     0.776053
+                    Sparks      Dominic Fike                       Bags     0.775769
+       We Can’t Be Friends     Conor Maynard                   Stitches     0.775602
+                  Stitches      Will Gittens                 Easy On Me     0.775239
+                    Sparks      Dixzie Cruel                   Nonsense     0.774917
+                    Sparks    Kelly Clarkson         Birds Of A Feather     0.774060
+Can’t Help Falling In Love        Lucy Ellis Can’t Help Falling In Love     0.773997
+                     Creep     Alec Chambers               Cruel Summer     0.773643
+Can’t Help Falling In Love      Kina Grannis            Sweater Weather     0.773367
+                  Stitches  Jasmine Thompson                       Halo     0.773186
+           Sweater Weather    Joseph Solomon          Love On The Brain     0.772951
+         Take Me To Church   Hearts & Colors                  I’m Yours     0.772551
+                    Snooze   Hearts & Colors                  I’m Yours     0.772139
+             Cruel Summer      Conor Maynard                   Stitches     0.771823
+                    Snooze              IMY2                      Creep     0.771159
+                  Stitches     Billie Eilish                      Creep     0.771138
+           Sweater Weather     Leroy Sanchez                   Stitches     0.771019
+                     Creep    Sofia Karlberg          Take Me To Church     0.770462
+                    Sparks       Matt Wilson        We Can’t Be Friends     0.770432
+                      Bags    Sofia Karlberg          Take Me To Church     0.769903
+Can’t Help Falling In Love       Hannah Grae                Sailor Song     0.769874
+                      Bags        Peter Katz                       Halo     0.769668
+                     Creep            Hozier           Do I Wanna Know?     0.769349
+                  Stitches       Hannah Grae                Sailor Song     0.768047
+                Easy On Me  Jasmine Thompson                       Halo     0.767031
+                  Stitches      Celine Wanyi                     Snooze     0.766303
+          Do I Wanna Know?    Kelly Clarkson         Birds Of A Feather     0.766302
+                 I’m Yours    Kelly Clarkson         Birds Of A Feather     0.766082
+                    Snooze     Alec Chambers               Cruel Summer     0.764984
+                    Sparks    Sofia Karlberg          Take Me To Church     0.764969
+                    Coffee      Alessia Cara            Sweater Weather     0.764738
+               Sailor Song      Dominic Fike                       Bags     0.764651
+                      Halo     Conor Maynard                   Stitches     0.764354
+       We Can’t Be Friends       Matt Wilson        We Can’t Be Friends     0.764153
+                  Nonsense       Teddy Swims               Cruel Summer     0.764109
+                    Coffee   Hearts & Colors                  I’m Yours     0.762469
+                    Sparks     Conor Maynard                   Stitches     0.762400
+                    Coffee        Peter Katz                       Halo     0.761447
+         Love On The Brain            Hozier           Do I Wanna Know?     0.761312
+                Easy On Me      Celine Wanyi                     Snooze     0.761310
+                     Creep     Billie Eilish                      Creep     0.760867
+                  Nonsense       Audrey Mika          Love On The Brain     0.760118
+                Easy On Me    Joseph Vincent                   Nonsense     0.759605
+                Easy On Me        Nica Tupas        We Can’t Be Friends     0.758903
+                 I’m Yours      Dominic Fike                       Bags     0.758778
+        Birds Of A Feather        Peter Katz                       Halo     0.758651
+                    Coffee        Lazulitchi         Birds Of A Feather     0.758373
+        Birds Of A Feather        Nica Tupas        We Can’t Be Friends     0.757581
+        Birds Of A Feather           Lloyiso                 Easy On Me     0.757173
+        Birds Of A Feather     Billie Eilish                      Creep     0.756855
+                  Nonsense           Lloyiso                 Easy On Me     0.756801
+         Take Me To Church        Nica Tupas        We Can’t Be Friends     0.756578
+         Take Me To Church     Leroy Sanchez                   Stitches     0.755899
+                  Stitches      Dixzie Cruel                   Nonsense     0.755806
+                  Nonsense    Joseph Solomon          Love On The Brain     0.755368
+        Birds Of A Feather            Hozier           Do I Wanna Know?     0.755345
+               Sailor Song    Joseph Solomon          Love On The Brain     0.755042
+          Do I Wanna Know?     Alec Chambers               Cruel Summer     0.754983
+         Love On The Brain     Billie Eilish                      Creep     0.754904
+         Take Me To Church    Joseph Solomon          Love On The Brain     0.754280
+               Sailor Song        Lucy Ellis Can’t Help Falling In Love     0.754126
+                 I’m Yours      Dixzie Cruel                   Nonsense     0.753877
+                  Nonsense              IMY2                      Creep     0.752121
+                     Creep    Joseph Vincent                   Nonsense     0.751669
+                  Nonsense      Celine Wanyi                     Snooze     0.751612
+                Easy On Me     Leroy Sanchez                   Stitches     0.751553
+                  Nonsense       Matt Wilson        We Can’t Be Friends     0.751537
+        Birds Of A Feather  Jasmine Thompson                       Halo     0.751443
+         Love On The Brain      Dominic Fike                       Bags     0.750927
+                    Sparks        Lazulitchi         Birds Of A Feather     0.750551
+                    Sparks      Celine Wanyi                     Snooze     0.750450
+Can’t Help Falling In Love      Will Gittens                 Easy On Me     0.749899
+                    Coffee    Joseph Vincent                   Nonsense     0.749748
+                    Snooze        Peter Katz                       Halo     0.749591
+                  Stitches        Lucy Ellis Can’t Help Falling In Love     0.749148
+                    Sparks     Alyssa Bernal                  I’m Yours     0.748885
+                    Snooze        Nica Tupas        We Can’t Be Friends     0.748853
+                Easy On Me       Hannah Grae                Sailor Song     0.748837
+                      Bags     Conor Maynard                   Stitches     0.748773
+                  Stitches           Rhianne                       Bags     0.748732
+       We Can’t Be Friends    Kelly Clarkson         Birds Of A Feather     0.748579
+                 I’m Yours       Hannah Grae                Sailor Song     0.748552
+        Birds Of A Feather       Teddy Swims               Cruel Summer     0.748388
+                  Stitches            Emilee                     Coffee     0.747857
+                 I’m Yours        Lucy Ellis Can’t Help Falling In Love     0.747640
+               Sailor Song      Will Gittens                 Easy On Me     0.747567
+             Cruel Summer               IMY2                      Creep     0.747295
+        Birds Of A Feather      Celine Wanyi                     Snooze     0.747212
+                  Stitches     Forest Slater                     Sparks     0.747174
+                    Coffee            Hozier           Do I Wanna Know?     0.747094
+                    Snooze           Lloyiso                 Easy On Me     0.746771
+                    Snooze      Kina Grannis            Sweater Weather     0.746502
+                 I’m Yours Marianne Beaulieu                Sailor Song     0.745913
+                     Creep     Leroy Sanchez                   Stitches     0.745414
+                  Stitches Marianne Beaulieu                Sailor Song     0.745364
+                  Nonsense     Billie Eilish                      Creep     0.745171
+          Do I Wanna Know?     Billie Eilish                      Creep     0.745055
+                Easy On Me    Joseph Solomon          Love On The Brain     0.744223
+Can’t Help Falling In Love    Joseph Solomon          Love On The Brain     0.743962
+        Birds Of A Feather    Joseph Vincent                   Nonsense     0.743685
+                    Sparks          Noah Red                     Snooze     0.743277
+                    Coffee  Jasmine Thompson                       Halo     0.743172
+                  Stitches       Audrey Mika          Love On The Brain     0.742444
+                    Sparks      Dustin Vuong                     Coffee     0.742116
+       We Can’t Be Friends  Jasmine Thompson                       Halo     0.742089
+                    Sparks      Alessia Cara            Sweater Weather     0.741965
+                    Sparks           Rhianne                       Bags     0.741889
+Can’t Help Falling In Love     Alec Chambers               Cruel Summer     0.741840
+           Sweater Weather        Nica Tupas        We Can’t Be Friends     0.740932
+       We Can’t Be Friends      Kina Grannis            Sweater Weather     0.740426
+                     Creep   Hearts & Colors                  I’m Yours     0.739631
+Can’t Help Falling In Love     Forest Slater                     Sparks     0.739411
+       We Can’t Be Friends           Lloyiso                 Easy On Me     0.738667
+                    Snooze       Teddy Swims               Cruel Summer     0.738139
+        Birds Of A Feather       Matt Wilson        We Can’t Be Friends     0.737868
+Can’t Help Falling In Love     Alyssa Bernal                  I’m Yours     0.737559
+                     Creep           Lloyiso                 Easy On Me     0.736992
+                Easy On Me            Hozier           Do I Wanna Know?     0.736783
+         Love On The Brain   Hearts & Colors                  I’m Yours     0.736576
+                    Snooze            Hozier           Do I Wanna Know?     0.736421
+         Take Me To Church       Hannah Grae                Sailor Song     0.736217
+                    Snooze       Matt Wilson        We Can’t Be Friends     0.735971
+                  Nonsense    Joseph Vincent                   Nonsense     0.735939
+                 I’m Yours      Celine Wanyi                     Snooze     0.735803
+          Do I Wanna Know?   Hearts & Colors                  I’m Yours     0.735075
+           Sweater Weather       Matt Wilson        We Can’t Be Friends     0.734314
+        Birds Of A Feather   Hearts & Colors                  I’m Yours     0.733495
+                    Coffee          Noah Red                     Snooze     0.733264
+          Do I Wanna Know?           Lloyiso                 Easy On Me     0.733182
+                 I’m Yours    Sofia Karlberg          Take Me To Church     0.733063
+               Sailor Song     Conor Maynard                   Stitches     0.732855
+                    Snooze     Leroy Sanchez                   Stitches     0.732797
+           Sweater Weather       Hannah Grae                Sailor Song     0.731423
+           Sweater Weather      Dixzie Cruel                   Nonsense     0.731107
+                Easy On Me        Lucy Ellis Can’t Help Falling In Love     0.730857
+Can’t Help Falling In Love      Dustin Vuong                     Coffee     0.729879
+                 I’m Yours      Will Gittens                 Easy On Me     0.729859
+           Sweater Weather      Will Gittens                 Easy On Me     0.729693
+             Cruel Summer      Alec Chambers               Cruel Summer     0.729143
+                    Coffee              IMY2                      Creep     0.728650
+         Love On The Brain        Nica Tupas        We Can’t Be Friends     0.728387
+         Take Me To Church      Will Gittens                 Easy On Me     0.728256
+               Sailor Song     Alyssa Bernal                  I’m Yours     0.728032
+               Sailor Song            Emilee                     Coffee     0.727956
+             Cruel Summer        Teddy Swims               Cruel Summer     0.727859
+               Sailor Song     Forest Slater                     Sparks     0.727558
+                      Bags            Hozier           Do I Wanna Know?     0.726820
+          Do I Wanna Know?     Leroy Sanchez                   Stitches     0.726028
+         Love On The Brain     Leroy Sanchez                   Stitches     0.725697
+                  Nonsense            Hozier           Do I Wanna Know?     0.725199
+                  Stitches       Matt Wilson        We Can’t Be Friends     0.725168
+                Easy On Me Marianne Beaulieu                Sailor Song     0.724900
+                  Nonsense   Hearts & Colors                  I’m Yours     0.724680
+                      Bags           Lloyiso                 Easy On Me     0.723847
+                     Creep    Joseph Solomon          Love On The Brain     0.723520
+               Sailor Song  Jasmine Thompson                       Halo     0.723379
+Can’t Help Falling In Love            Emilee                     Coffee     0.723259
+                Easy On Me   Hearts & Colors                  I’m Yours     0.723092
+               Sailor Song      Alessia Cara            Sweater Weather     0.723058
+         Love On The Brain       Matt Wilson        We Can’t Be Friends     0.722242
+         Take Me To Church        Lucy Ellis Can’t Help Falling In Love     0.721618
+                    Coffee           Lloyiso                 Easy On Me     0.721477
+                      Bags    Joseph Vincent                   Nonsense     0.721413
+                 I’m Yours      Alessia Cara            Sweater Weather     0.720920
+          Do I Wanna Know?    Joseph Solomon          Love On The Brain     0.720370
+       We Can’t Be Friends     Alec Chambers               Cruel Summer     0.720054
+                 I’m Yours      Dustin Vuong                     Coffee     0.719651
+                 I’m Yours       Matt Wilson        We Can’t Be Friends     0.719039
+          Do I Wanna Know?     Conor Maynard                   Stitches     0.718918
+       We Can’t Be Friends        Nica Tupas        We Can’t Be Friends     0.718436
+                    Snooze       Hannah Grae                Sailor Song     0.717222
+                    Coffee     Conor Maynard                   Stitches     0.717021
+           Sweater Weather        Lucy Ellis Can’t Help Falling In Love     0.716582
+             Cruel Summer     Joseph Vincent                   Nonsense     0.716521
+       We Can’t Be Friends            Hozier           Do I Wanna Know?     0.716412
+                    Coffee       Teddy Swims               Cruel Summer     0.716374
+       We Can’t Be Friends     Billie Eilish                      Creep     0.716145
+Can’t Help Falling In Love  Jasmine Thompson                       Halo     0.715921
+                  Nonsense        Lucy Ellis Can’t Help Falling In Love     0.715567
+                Easy On Me      Will Gittens                 Easy On Me     0.715367
+                     Creep        Lucy Ellis Can’t Help Falling In Love     0.714449
+Can’t Help Falling In Love       Audrey Mika          Love On The Brain     0.714025
+Can’t Help Falling In Love      Dominic Fike                       Bags     0.713809
+                Easy On Me     Billie Eilish                      Creep     0.712163
+                    Snooze  Jasmine Thompson                       Halo     0.711641
+           Sweater Weather  Jasmine Thompson                       Halo     0.711137
+         Love On The Brain    Joseph Solomon          Love On The Brain     0.710884
+                    Sparks      Alyssa Baker Can’t Help Falling In Love     0.710581
+        Birds Of A Feather       Hannah Grae                Sailor Song     0.709888
+                  Stitches     Alyssa Bernal                  I’m Yours     0.709884
+                    Coffee     Alyssa Bernal                  I’m Yours     0.709764
+                 I’m Yours  Jasmine Thompson                       Halo     0.709738
+         Take Me To Church       Matt Wilson        We Can’t Be Friends     0.709291
+             Cruel Summer       Kina Grannis            Sweater Weather     0.708684
+Can’t Help Falling In Love       Matt Wilson        We Can’t Be Friends     0.708637
+                      Halo              IMY2                      Creep     0.708195
+Can’t Help Falling In Love     Conor Maynard                   Stitches     0.707774
+                    Snooze      Will Gittens                 Easy On Me     0.707615
+                  Nonsense      Dixzie Cruel                   Nonsense     0.707444
+               Sailor Song       Audrey Mika          Love On The Brain     0.707326
+                 I’m Yours            Emilee                     Coffee     0.707005
+                    Coffee      Alyssa Baker Can’t Help Falling In Love     0.706757
+                    Snooze      Celine Wanyi                     Snooze     0.706402
+           Sweater Weather       Audrey Mika          Love On The Brain     0.706338
+         Love On The Brain       Audrey Mika          Love On The Brain     0.706305
+                Easy On Me       Audrey Mika          Love On The Brain     0.705983
+                      Bags   Hearts & Colors                  I’m Yours     0.705140
+        Birds Of A Feather    Joseph Solomon          Love On The Brain     0.705046
+               Sailor Song       Matt Wilson        We Can’t Be Friends     0.704752
+         Love On The Brain       Hannah Grae                Sailor Song     0.704734
+           Sweater Weather      Celine Wanyi                     Snooze     0.704252
+        Birds Of A Feather      Dominic Fike                       Bags     0.704077
+                     Creep     Conor Maynard                   Stitches     0.703852
+        Birds Of A Feather        Lucy Ellis Can’t Help Falling In Love     0.703593
+                     Creep      Dixzie Cruel                   Nonsense     0.702852
+       We Can’t Be Friends       Teddy Swims               Cruel Summer     0.702002
+Can’t Help Falling In Love      Alessia Cara            Sweater Weather     0.701533
+                  Stitches      Alessia Cara            Sweater Weather     0.701393
+                  Nonsense  Jasmine Thompson                       Halo     0.700834
+                    Coffee       Audrey Mika          Love On The Brain     0.700239
+                    Sparks       Audrey Mika          Love On The Brain     0.700145
+       We Can’t Be Friends      Celine Wanyi                     Snooze     0.699997
+                 I’m Yours        Nica Tupas        We Can’t Be Friends     0.699866
+          Do I Wanna Know?        Lucy Ellis Can’t Help Falling In Love     0.699489
+                      Halo      Kina Grannis            Sweater Weather     0.699130
+        Birds Of A Feather      Will Gittens                 Easy On Me     0.698611
+                Easy On Me      Dixzie Cruel                   Nonsense     0.698303
+         Love On The Brain        Lucy Ellis Can’t Help Falling In Love     0.698009
+                     Creep      Will Gittens                 Easy On Me     0.697775
+             Cruel Summer         Peter Katz                       Halo     0.697720
+                      Halo       Teddy Swims               Cruel Summer     0.697550
+               Sailor Song Marianne Beaulieu                Sailor Song     0.697546
+         Take Me To Church  Jasmine Thompson                       Halo     0.697427
+                  Nonsense      Dominic Fike                       Bags     0.697386
+                      Halo        Peter Katz                       Halo     0.697360
+         Love On The Brain  Jasmine Thompson                       Halo     0.697356
+                      Halo       Matt Wilson        We Can’t Be Friends     0.697059
+             Cruel Summer            Lloyiso                 Easy On Me     0.696465
+               Sailor Song      Celine Wanyi                     Snooze     0.696156
+       We Can’t Be Friends              IMY2                      Creep     0.695911
+        Birds Of A Feather       Audrey Mika          Love On The Brain     0.695360
+                  Nonsense       Hannah Grae                Sailor Song     0.695354
+               Sailor Song      Dixzie Cruel                   Nonsense     0.695226
+               Sailor Song      Dustin Vuong                     Coffee     0.695047
+Can’t Help Falling In Love      Alyssa Baker Can’t Help Falling In Love     0.694402
+                    Sparks       Connie Park                     Sparks     0.693852
+          Do I Wanna Know?      Dixzie Cruel                   Nonsense     0.693838
+                     Creep        Nica Tupas        We Can’t Be Friends     0.693733
+             Cruel Summer             Hozier           Do I Wanna Know?     0.693194
+         Take Me To Church      Dixzie Cruel                   Nonsense     0.692597
+                      Halo     Billie Eilish                      Creep     0.692583
+         Take Me To Church      Dustin Vuong                     Coffee     0.692110
+        Birds Of A Feather Marianne Beaulieu                Sailor Song     0.691697
+Can’t Help Falling In Love Marianne Beaulieu                Sailor Song     0.691570
+                      Bags    Joseph Solomon          Love On The Brain     0.691527
+                Easy On Me           Rhianne                       Bags     0.691420
+                  Stitches       Connie Park                     Sparks     0.691298
+          Do I Wanna Know?        Nica Tupas        We Can’t Be Friends     0.690999
+Can’t Help Falling In Love        Lazulitchi         Birds Of A Feather     0.690541
+                    Snooze    Joseph Solomon          Love On The Brain     0.690428
+                     Creep Marianne Beaulieu                Sailor Song     0.690018
+           Sweater Weather     Forest Slater                     Sparks     0.689512
+         Love On The Brain      Will Gittens                 Easy On Me     0.689420
+         Take Me To Church       Audrey Mika          Love On The Brain     0.689379
+          Do I Wanna Know?       Hannah Grae                Sailor Song     0.689289
+         Take Me To Church      Alessia Cara            Sweater Weather     0.689136
+                    Coffee       Connie Park                     Sparks     0.688554
+          Do I Wanna Know?       Audrey Mika          Love On The Brain     0.688344
+                      Halo           Lloyiso                 Easy On Me     0.688138
+                Easy On Me      Dominic Fike                       Bags     0.687632
+                 I’m Yours     Alyssa Bernal                  I’m Yours     0.687521
+                    Coffee       Matt Wilson        We Can’t Be Friends     0.687521
+                Easy On Me      Alessia Cara            Sweater Weather     0.687432
+                  Nonsense     Leroy Sanchez                   Stitches     0.687411
+        Birds Of A Feather     Leroy Sanchez                   Stitches     0.687088
+       We Can’t Be Friends      Alyssa Baker Can’t Help Falling In Love     0.686972
+                Easy On Me            Emilee                     Coffee     0.686876
+                  Stitches      Dustin Vuong                     Coffee     0.686252
+Can’t Help Falling In Love       Connie Park                     Sparks     0.685279
+                 I’m Yours      Alyssa Baker Can’t Help Falling In Love     0.685188
+                      Halo            Hozier           Do I Wanna Know?     0.684954
+                      Bags     Leroy Sanchez                   Stitches     0.684756
+                      Halo     Alec Chambers               Cruel Summer     0.684324
+                     Creep  Jasmine Thompson                       Halo     0.684211
+       We Can’t Be Friends   Hearts & Colors                  I’m Yours     0.684119
+          Do I Wanna Know?      Will Gittens                 Easy On Me     0.683192
+                     Creep       Hannah Grae                Sailor Song     0.682937
+               Sailor Song        Lazulitchi         Birds Of A Feather     0.682873
+       We Can’t Be Friends        Peter Katz                       Halo     0.682831
+                    Coffee     Billie Eilish                      Creep     0.682692
+               Sailor Song           Rhianne                       Bags     0.682377
+                    Coffee      Dominic Fike                       Bags     0.682110
+           Sweater Weather            Emilee                     Coffee     0.682081
+       We Can’t Be Friends    Joseph Vincent                   Nonsense     0.681646
+                    Snooze     Billie Eilish                      Creep     0.681624
+                      Bags       Audrey Mika          Love On The Brain     0.681391
+                  Nonsense Marianne Beaulieu                Sailor Song     0.680992
+           Sweater Weather Marianne Beaulieu                Sailor Song     0.679903
+         Love On The Brain      Celine Wanyi                     Snooze     0.679537
+             Cruel Summer        Matt Wilson        We Can’t Be Friends     0.679342
+               Sailor Song       Connie Park                     Sparks     0.679055
+           Sweater Weather           Rhianne                       Bags     0.679023
+                 I’m Yours       Connie Park                     Sparks     0.678555
+                  Nonsense           Rhianne                       Bags     0.678143
+         Take Me To Church      Alyssa Baker Can’t Help Falling In Love     0.677590
+Can’t Help Falling In Love      Dixzie Cruel                   Nonsense     0.677304
+                 I’m Yours           Rhianne                       Bags     0.676988
+                    Snooze       Audrey Mika          Love On The Brain     0.676828
+        Birds Of A Feather           Rhianne                       Bags     0.676690
+        Birds Of A Feather      Dixzie Cruel                   Nonsense     0.676167
+                      Bags       Matt Wilson        We Can’t Be Friends     0.675444
+                    Snooze        Lucy Ellis Can’t Help Falling In Love     0.674763
+                      Halo       Audrey Mika          Love On The Brain     0.674292
+                Easy On Me       Connie Park                     Sparks     0.673967
+                  Stitches        Lazulitchi         Birds Of A Feather     0.673548
+                      Bags        Nica Tupas        We Can’t Be Friends     0.673360
+                     Creep       Audrey Mika          Love On The Brain     0.673249
+         Take Me To Church            Emilee                     Coffee     0.672821
+                     Creep     Forest Slater                     Sparks     0.672739
+                    Snooze      Dominic Fike                       Bags     0.672480
+           Sweater Weather      Alessia Cara            Sweater Weather     0.672297
+                  Nonsense            Emilee                     Coffee     0.671067
+             Cruel Summer       Dominic Fike                       Bags     0.670114
+         Love On The Brain Marianne Beaulieu                Sailor Song     0.669668
+         Take Me To Church      Celine Wanyi                     Snooze     0.669498
+             Cruel Summer      Billie Eilish                      Creep     0.669097
+                     Creep       Matt Wilson        We Can’t Be Friends     0.668711
+         Take Me To Church Marianne Beaulieu                Sailor Song     0.668363
+                Easy On Me     Forest Slater                     Sparks     0.667231
+                  Nonsense      Will Gittens                 Easy On Me     0.666490
+                    Snooze     Forest Slater                     Sparks     0.665838
+Can’t Help Falling In Love      Celine Wanyi                     Snooze     0.664595
+         Take Me To Church     Forest Slater                     Sparks     0.663010
+             Cruel Summer    Hearts & Colors                  I’m Yours     0.662057
+          Do I Wanna Know?       Matt Wilson        We Can’t Be Friends     0.661671
+                  Stitches      Alyssa Baker Can’t Help Falling In Love     0.661569
+                      Bags       Hannah Grae                Sailor Song     0.661521
+        Birds Of A Feather      Alyssa Baker Can’t Help Falling In Love     0.661515
+                      Halo    Joseph Vincent                   Nonsense     0.660926
+                    Snooze            Emilee                     Coffee     0.660831
+         Love On The Brain      Dixzie Cruel                   Nonsense     0.660414
+               Sailor Song      Alyssa Baker Can’t Help Falling In Love     0.659160
+                      Bags        Lucy Ellis Can’t Help Falling In Love     0.659110
+                     Creep           Rhianne                       Bags     0.658949
+           Sweater Weather     Alyssa Bernal                  I’m Yours     0.657964
+                    Snooze Marianne Beaulieu                Sailor Song     0.657439
+                  Stitches          Noah Red                     Snooze     0.656581
+                      Bags  Jasmine Thompson                       Halo     0.656490
+                Easy On Me      Dustin Vuong                     Coffee     0.656405
+                 I’m Yours     Forest Slater                     Sparks     0.655666
+                     Creep            Emilee                     Coffee     0.655572
+          Do I Wanna Know?      Alessia Cara            Sweater Weather     0.655505
+Can’t Help Falling In Love           Rhianne                       Bags     0.654898
+                    Snooze           Rhianne                       Bags     0.654530
+                     Creep      Alessia Cara            Sweater Weather     0.653125
+           Sweater Weather      Dustin Vuong                     Coffee     0.652986
+          Do I Wanna Know?     Forest Slater                     Sparks     0.652303
+                      Bags      Celine Wanyi                     Snooze     0.652208
+             Cruel Summer   Jasmine Thompson                       Halo     0.652080
+                      Bags Marianne Beaulieu                Sailor Song     0.650996
+                    Coffee    Kelly Clarkson         Birds Of A Feather     0.650900
+         Love On The Brain            Emilee                     Coffee     0.650709
+                  Nonsense      Alessia Cara            Sweater Weather     0.650259
+        Birds Of A Feather            Emilee                     Coffee     0.649426
+             Cruel Summer         Nica Tupas        We Can’t Be Friends     0.649131
+       We Can’t Be Friends       Hannah Grae                Sailor Song     0.649021
+                    Snooze      Dixzie Cruel                   Nonsense     0.648452
+       We Can’t Be Friends       Audrey Mika          Love On The Brain     0.647875
+                      Bags      Dixzie Cruel                   Nonsense     0.647650
+                      Bags      Will Gittens                 Easy On Me     0.646772
+          Do I Wanna Know?            Emilee                     Coffee     0.646531
+                    Snooze      Alessia Cara            Sweater Weather     0.646204
+                  Nonsense      Dustin Vuong                     Coffee     0.646057
+                Easy On Me        Lazulitchi         Birds Of A Feather     0.645982
+         Love On The Brain           Rhianne                       Bags     0.645741
+         Love On The Brain     Forest Slater                     Sparks     0.645494
+                Easy On Me     Alyssa Bernal                  I’m Yours     0.643911
+               Sailor Song          Noah Red                     Snooze     0.643761
+         Love On The Brain      Alyssa Baker Can’t Help Falling In Love     0.643184
+         Take Me To Church     Alyssa Bernal                  I’m Yours     0.643085
+                  Nonsense        Nica Tupas        We Can’t Be Friends     0.642996
+           Sweater Weather      Alyssa Baker Can’t Help Falling In Love     0.642522
+Can’t Help Falling In Love          Noah Red                     Snooze     0.642212
+       We Can’t Be Friends      Dominic Fike                       Bags     0.642080
+                     Creep      Dustin Vuong                     Coffee     0.642065
+                      Halo        Nica Tupas        We Can’t Be Friends     0.642039
+        Birds Of A Feather     Forest Slater                     Sparks     0.640704
+       We Can’t Be Friends        Lucy Ellis Can’t Help Falling In Love     0.640365
+       We Can’t Be Friends       Connie Park                     Sparks     0.640048
+       We Can’t Be Friends      Will Gittens                 Easy On Me     0.639612
+                 I’m Yours          Noah Red                     Snooze     0.639152
+          Do I Wanna Know?  Jasmine Thompson                       Halo     0.638237
+       We Can’t Be Friends     Leroy Sanchez                   Stitches     0.637978
+         Love On The Brain      Alessia Cara            Sweater Weather     0.636758
+                  Nonsense      Alyssa Baker Can’t Help Falling In Love     0.636246
+       We Can’t Be Friends    Joseph Solomon          Love On The Brain     0.636098
+                    Snooze      Alyssa Baker Can’t Help Falling In Love     0.636094
+        Birds Of A Feather       Connie Park                     Sparks     0.635209
+                      Halo  Jasmine Thompson                       Halo     0.632722
+             Cruel Summer       Celine Wanyi                     Snooze     0.632228
+          Do I Wanna Know? Marianne Beaulieu                Sailor Song     0.631498
+       We Can’t Be Friends            Emilee                     Coffee     0.631013
+                      Halo        Lucy Ellis Can’t Help Falling In Love     0.630997
+                      Halo      Celine Wanyi                     Snooze     0.630709
+                     Creep     Alyssa Bernal                  I’m Yours     0.630615
+                 I’m Yours        Lazulitchi         Birds Of A Feather     0.630194
+         Take Me To Church        Lazulitchi         Birds Of A Feather     0.630075
+             Cruel Summer        Audrey Mika          Love On The Brain     0.629538
+                  Nonsense       Connie Park                     Sparks     0.627785
+                    Snooze       Connie Park                     Sparks     0.627651
+         Take Me To Church           Rhianne                       Bags     0.626529
+           Sweater Weather          Noah Red                     Snooze     0.626251
+           Sweater Weather       Connie Park                     Sparks     0.626237
+             Cruel Summer      Leroy Sanchez                   Stitches     0.625611
+             Cruel Summer         Lucy Ellis Can’t Help Falling In Love     0.625361
+          Do I Wanna Know?      Celine Wanyi                     Snooze     0.625215
+                     Creep      Celine Wanyi                     Snooze     0.624991
+                    Snooze     Alyssa Bernal                  I’m Yours     0.624951
+                    Snooze        Lazulitchi         Birds Of A Feather     0.623706
+         Love On The Brain     Alyssa Bernal                  I’m Yours     0.623564
+             Cruel Summer        Hannah Grae                Sailor Song     0.623392
+                      Halo    Joseph Solomon          Love On The Brain     0.622881
+                      Bags      Alyssa Baker Can’t Help Falling In Love     0.622352
+          Do I Wanna Know?      Dustin Vuong                     Coffee     0.622044
+                      Bags           Rhianne                       Bags     0.621931
+                     Creep      Alyssa Baker Can’t Help Falling In Love     0.620072
+                      Bags            Emilee                     Coffee     0.620056
+       We Can’t Be Friends           Rhianne                       Bags     0.619613
+                      Halo       Hannah Grae                Sailor Song     0.619023
+                      Halo      Dominic Fike                       Bags     0.618879
+             Cruel Summer       Will Gittens                 Easy On Me     0.618541
+          Do I Wanna Know?           Rhianne                       Bags     0.618198
+                      Halo   Hearts & Colors                  I’m Yours     0.617250
+       We Can’t Be Friends Marianne Beaulieu                Sailor Song     0.617183
+                Easy On Me          Noah Red                     Snooze     0.615063
+           Sweater Weather        Lazulitchi         Birds Of A Feather     0.614693
+        Birds Of A Feather      Alessia Cara            Sweater Weather     0.614495
+             Cruel Summer     Joseph Solomon          Love On The Brain     0.614426
+                      Bags     Forest Slater                     Sparks     0.611769
+                  Nonsense     Alyssa Bernal                  I’m Yours     0.611589
+         Love On The Brain       Connie Park                     Sparks     0.610979
+                    Coffee    Sofia Karlberg          Take Me To Church     0.608976
+         Take Me To Church          Noah Red                     Snooze     0.608794
+          Do I Wanna Know?     Alyssa Bernal                  I’m Yours     0.608068
+                     Creep          Noah Red                     Snooze     0.606724
+                      Bags      Alessia Cara            Sweater Weather     0.604318
+                    Snooze          Noah Red                     Snooze     0.603993
+                     Creep       Connie Park                     Sparks     0.602147
+        Birds Of A Feather      Dustin Vuong                     Coffee     0.600609
+        Birds Of A Feather        Lazulitchi         Birds Of A Feather     0.598969
+                      Halo      Alyssa Baker Can’t Help Falling In Love     0.597828
+             Cruel Summer       Dixzie Cruel                   Nonsense     0.595907
+       We Can’t Be Friends      Dixzie Cruel                   Nonsense     0.595891
+                  Nonsense     Forest Slater                     Sparks     0.595684
+                      Halo      Will Gittens                 Easy On Me     0.595399
+       We Can’t Be Friends     Forest Slater                     Sparks     0.592831
+                      Halo     Leroy Sanchez                   Stitches     0.592665
+                      Bags      Dustin Vuong                     Coffee     0.592206
+         Take Me To Church       Connie Park                     Sparks     0.591559
+                     Creep        Lazulitchi         Birds Of A Feather     0.590464
+         Love On The Brain      Dustin Vuong                     Coffee     0.587123
+          Do I Wanna Know?          Noah Red                     Snooze     0.585243
+         Love On The Brain        Lazulitchi         Birds Of A Feather     0.585115
+        Birds Of A Feather     Alyssa Bernal                  I’m Yours     0.584593
+                      Bags     Alyssa Bernal                  I’m Yours     0.583931
+             Cruel Summer             Emilee                     Coffee     0.583751
+             Cruel Summer  Marianne Beaulieu                Sailor Song     0.583642
+       We Can’t Be Friends        Lazulitchi         Birds Of A Feather     0.581658
+                      Halo Marianne Beaulieu                Sailor Song     0.581220
+          Do I Wanna Know?      Alyssa Baker Can’t Help Falling In Love     0.581073
+             Cruel Summer       Alyssa Baker Can’t Help Falling In Love     0.580970
+         Love On The Brain          Noah Red                     Snooze     0.579225
+                      Halo            Emilee                     Coffee     0.577073
+                      Bags       Connie Park                     Sparks     0.575118
+                    Snooze      Dustin Vuong                     Coffee     0.574325
+                      Halo           Rhianne                       Bags     0.573210
+             Cruel Summer            Rhianne                       Bags     0.572574
+          Do I Wanna Know?        Lazulitchi         Birds Of A Feather     0.570716
+                      Halo      Dixzie Cruel                   Nonsense     0.569071
+       We Can’t Be Friends      Dustin Vuong                     Coffee     0.568889
+       We Can’t Be Friends     Alyssa Bernal                  I’m Yours     0.565903
+             Cruel Summer      Forest Slater                     Sparks     0.564717
+          Do I Wanna Know?       Connie Park                     Sparks     0.561742
+             Cruel Summer        Connie Park                     Sparks     0.561720
+                  Nonsense        Lazulitchi         Birds Of A Feather     0.558977
+             Cruel Summer       Alessia Cara            Sweater Weather     0.556781
+                      Bags        Lazulitchi         Birds Of A Feather     0.552848
+                  Nonsense          Noah Red                     Snooze     0.552757
+       We Can’t Be Friends      Alessia Cara            Sweater Weather     0.550171
+        Birds Of A Feather          Noah Red                     Snooze     0.549060
+                      Halo       Connie Park                     Sparks     0.548048
+                      Bags          Noah Red                     Snooze     0.544332
+             Cruel Summer      Alyssa Bernal                  I’m Yours     0.544212
+                      Halo     Forest Slater                     Sparks     0.538304
+                      Halo      Alessia Cara            Sweater Weather     0.533131
+             Cruel Summer       Dustin Vuong                     Coffee     0.526786
+             Cruel Summer         Lazulitchi         Birds Of A Feather     0.525637
+                      Halo     Alyssa Bernal                  I’m Yours     0.522673
+                      Halo      Dustin Vuong                     Coffee     0.517172
+             Cruel Summer           Noah Red                     Snooze     0.510938
+       We Can’t Be Friends          Noah Red                     Snooze     0.500613
+                      Halo        Lazulitchi         Birds Of A Feather     0.496906
+                      Halo          Noah Red                     Snooze     0.469921
+================================================================================
