@@ -15,15 +15,15 @@ from scipy.spatial.distance import cosine as cosine_dist
 import librosa
 
 # paths double check
-CSV_FILE    = os.path.join("dataprocessing", "processed_dataset.csv")
-WAV_DIR     = os.path.join("dataprocessing", "converted_to_22k_wav", "downloads")
-FEATURE_DIR = os.path.join("dataprocessing", "features")
+CSV_FILE    = os.path.join("final-pipeline", "processed_dataset.csv")
+WAV_DIR     = os.path.join("final-pipeline", "converted_to_22k_wav", "downloads")
+FEATURE_DIR = os.path.join("final-pipeline", "features")
 
 SR         = 22050
 HOP_LENGTH = 512
 N_CHROMA   = 12
 
-# helper functions for loading audio and chroma features (from dataprocessing scripts)
+# helper functions for loading audio and chroma features (from final-pipeline scripts)
 def wav_path(file_name: str) -> str:
     stem = os.path.splitext(file_name)[0]
     return os.path.join(WAV_DIR, f"{stem}_22k.wav")
